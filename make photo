@@ -1,0 +1,7 @@
+{
+  "email": "client.simule@test.com",
+  "nom": "Dupont",
+  "dateReservation": "2025-04-25T14:00:00",
+  "typeSeance": "Studio Photo",
+  "preferences": "Style moderne"
+}
